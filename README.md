@@ -1,3 +1,1 @@
-Just the pdf of the reports screenshots
-
-May upload .pbix later
+A compilation of projects made on Power Bi
